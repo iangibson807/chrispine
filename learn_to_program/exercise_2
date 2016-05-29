@@ -1,0 +1,4 @@
+x = 5432
+y = x / 1000
+# "y is the digit in the thousands place"
+puts y
